@@ -1,5 +1,5 @@
-# Ionic2 AngularFire2
-Ionic2 with angularfire2 starter pack
+# Ionic AngularFire2
+Ionic with angularfire2 starter pack
 
 ## Getting Started
 
