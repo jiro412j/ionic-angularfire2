@@ -9,6 +9,12 @@ Ionic with angularfire2 starter pack
 $ npm install -g ionic cordova
 ```
 
+### Install AngularFire2
+
+```
+$ npm install firebase angularfire2 --save
+```
+
 ### Run Development Server
 
 ```
