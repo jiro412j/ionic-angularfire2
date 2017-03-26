@@ -1,5 +1,5 @@
-# Ionic2 Simple CRUD App
-Ionic2 Starter template for CRUD
+# Ionic2 Firebase
+Ionic2 with angularfire2 starter pack
 
 ## Getting Started
 
@@ -9,7 +9,7 @@ Ionic2 Starter template for CRUD
 $ npm install -g ionic cordova
 ```
 
-### Run Server
+### Run Development Server
 
 ```
 $ ionic serve --lab
