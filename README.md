@@ -1,4 +1,4 @@
-# Ionic2 Firebase
+# Ionic2 AngularFire2
 Ionic2 with angularfire2 starter pack
 
 ## Getting Started
