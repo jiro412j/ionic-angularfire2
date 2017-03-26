@@ -2,4 +2,12 @@
 
 ### Install Ionic CLI and Cordova
 
-_npm install -g ionic cordova
+```
+$ npm install -g ionic cordova
+```
+
+### Run Server
+
+```
+$ ionic serve --lab
+```
